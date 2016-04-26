@@ -4637,14 +4637,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc</id>
 	<property>
 	<id>FRU_ID</id>
 	<value>2</value>
@@ -4663,7 +4663,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/cpu_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/cpu_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpu_func_sensor</value>
@@ -4674,7 +4674,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/cpu_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/cpu_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpu_temp_sensor</value>
@@ -4685,14 +4685,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-1</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-1</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-1/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-1/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE12</value>
@@ -4707,7 +4707,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-1/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-1/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -4718,7 +4718,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-1/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-1/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -4729,7 +4729,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-1/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-1/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -4740,14 +4740,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-10</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-10</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-10/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-10/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE19</value>
@@ -4762,7 +4762,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-10/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-10/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -4773,7 +4773,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-10/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-10/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -4784,7 +4784,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-10/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-10/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -4795,14 +4795,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-11</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-11</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-11/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-11/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE20</value>
@@ -4817,7 +4817,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-11/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-11/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -4828,7 +4828,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-11/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-11/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -4839,7 +4839,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-11/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-11/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -4850,14 +4850,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-12</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-12</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-12/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-12/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE21</value>
@@ -4872,7 +4872,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-12/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-12/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -4883,7 +4883,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-12/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-12/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -4894,7 +4894,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-12/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-12/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -4905,14 +4905,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-13</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-13</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-13/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-13/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE22</value>
@@ -4927,7 +4927,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-13/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-13/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -4938,7 +4938,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-13/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-13/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -4949,7 +4949,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-13/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-13/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -4960,14 +4960,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-14</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-14</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-14/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-14/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE23</value>
@@ -4982,7 +4982,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-14/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-14/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -4993,7 +4993,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-14/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-14/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -5004,7 +5004,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-14/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-14/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -5015,14 +5015,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-2</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-2</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-2/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-2/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE13</value>
@@ -5037,7 +5037,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-2/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-2/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -5048,7 +5048,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-2/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-2/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -5059,7 +5059,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-2/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-2/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -5070,14 +5070,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-3</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-3</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-3/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-3/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE14</value>
@@ -5092,7 +5092,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-3/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-3/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -5103,7 +5103,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-3/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-3/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -5114,7 +5114,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-3/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-3/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -5125,14 +5125,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-4</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-4</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-4/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-4/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE15</value>
@@ -5147,7 +5147,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-4/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-4/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -5158,7 +5158,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-4/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-4/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -5169,7 +5169,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-4/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-4/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -5180,14 +5180,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-5</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-5</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-5/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-5/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE16</value>
@@ -5202,7 +5202,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-5/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-5/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -5213,7 +5213,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-5/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-5/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -5224,7 +5224,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-5/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-5/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -5235,14 +5235,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-6</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-6</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-6/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-6/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE17</value>
@@ -5257,7 +5257,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-6/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-6/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -5268,7 +5268,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-6/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-6/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -5279,7 +5279,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-6/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-6/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -5290,14 +5290,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-9</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-9</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-9/core-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-9/core-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CORE18</value>
@@ -5312,7 +5312,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-9/core-0/cpucore_freq_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-9/core-0/cpucore_freq_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_freq_sensor</value>
@@ -5323,7 +5323,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-9/core-0/cpucore_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-9/core-0/cpucore_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_func_sensor</value>
@@ -5334,7 +5334,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/ex-9/core-0/cpucore_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/ex-9/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>cpucore_temp_sensor</value>
@@ -5345,7 +5345,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/occ-0</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/occ-0</id>
 	<property>
 	<id>FRU_ID</id>
 	<value>2</value>
@@ -5364,7 +5364,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/occ-0/occ_active_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/occ-0/occ_active_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>occ_active_sensor</value>
@@ -5375,7 +5375,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/pci_configs</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/pci_configs</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>pci_configs</value>
@@ -5386,14 +5386,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/pci_configs/E0_x16:E1_x16</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x16</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-0/proc/pci_configs/E0_x16:E1_x8x8</id>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x8x8</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
@@ -6198,12 +6198,12 @@
 		<default>NA</default>
 	</attribute>
 	<bus>
-		<bus_id>proc_socket-0/module-0/proc/abus-0 => proc_socket-1/module-0/proc/abus-0</bus_id>
+		<bus_id>proc_socket-0/module-0/proc/abus-0 => proc_socket-1/module-1/proc/abus-0</bus_id>
 		<bus_type>ABUS</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-0/module-0/proc/</source_path>
 		<source_target>abus-0</source_target>
-		<dest_path>proc_socket-1/module-0/proc/</dest_path>
+		<dest_path>proc_socket-1/module-1/proc/</dest_path>
 		<dest_target>abus-0</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -6219,12 +6219,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-0/module-0/proc/abus-1 => proc_socket-1/module-0/proc/abus-1</bus_id>
+		<bus_id>proc_socket-0/module-0/proc/abus-1 => proc_socket-1/module-1/proc/abus-1</bus_id>
 		<bus_type>ABUS</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-0/module-0/proc/</source_path>
 		<source_target>abus-1</source_target>
-		<dest_path>proc_socket-1/module-0/proc/</dest_path>
+		<dest_path>proc_socket-1/module-1/proc/</dest_path>
 		<dest_target>abus-1</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -6240,12 +6240,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-0/module-0/proc/abus-2 => proc_socket-1/module-0/proc/abus-2</bus_id>
+		<bus_id>proc_socket-0/module-0/proc/abus-2 => proc_socket-1/module-1/proc/abus-2</bus_id>
 		<bus_type>ABUS</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-0/module-0/proc/</source_path>
 		<source_target>abus-2</source_target>
-		<dest_path>proc_socket-1/module-0/proc/</dest_path>
+		<dest_path>proc_socket-1/module-1/proc/</dest_path>
 		<dest_target>abus-2</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -6777,10 +6777,10 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/proc/mcs-1 => membuf-4/dmi</bus_id>
+		<bus_id>proc_socket-1/module-1/proc/mcs-1 => membuf-4/dmi</bus_id>
 		<bus_type>DMI</bus_type>
 		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/proc/</source_path>
+		<source_path>proc_socket-1/module-1/proc/</source_path>
 		<source_target>mcs-1</source_target>
 		<dest_path>membuf-4/</dest_path>
 		<dest_target>dmi</dest_target>
@@ -6802,10 +6802,10 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/proc/mcs-0 => membuf-5/dmi</bus_id>
+		<bus_id>proc_socket-1/module-1/proc/mcs-0 => membuf-5/dmi</bus_id>
 		<bus_type>DMI</bus_type>
 		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/proc/</source_path>
+		<source_path>proc_socket-1/module-1/proc/</source_path>
 		<source_target>mcs-0</source_target>
 		<dest_path>membuf-5/</dest_path>
 		<dest_target>dmi</dest_target>
@@ -6827,10 +6827,10 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/proc/mcs-5 => membuf-6/dmi</bus_id>
+		<bus_id>proc_socket-1/module-1/proc/mcs-5 => membuf-6/dmi</bus_id>
 		<bus_type>DMI</bus_type>
 		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/proc/</source_path>
+		<source_path>proc_socket-1/module-1/proc/</source_path>
 		<source_target>mcs-5</source_target>
 		<dest_path>membuf-6/</dest_path>
 		<dest_target>dmi</dest_target>
@@ -6852,10 +6852,10 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/proc/mcs-4 => membuf-7/dmi</bus_id>
+		<bus_id>proc_socket-1/module-1/proc/mcs-4 => membuf-7/dmi</bus_id>
 		<bus_type>DMI</bus_type>
 		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/proc/</source_path>
+		<source_path>proc_socket-1/module-1/proc/</source_path>
 		<source_target>mcs-4</source_target>
 		<dest_path>membuf-7/</dest_path>
 		<dest_target>dmi</dest_target>
@@ -6877,12 +6877,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-0/module-0/proc/fsim-2 => proc_socket-1/module-0/proc/fsi-slave-0</bus_id>
+		<bus_id>proc_socket-0/module-0/proc/fsim-2 => proc_socket-1/module-1/proc/fsi-slave-0</bus_id>
 		<bus_type>FSIM</bus_type>
 		<cable>no</cable>
 		<source_path>proc_socket-0/module-0/proc/</source_path>
 		<source_target>fsim-2</source_target>
-		<dest_path>proc_socket-1/module-0/proc/</dest_path>
+		<dest_path>proc_socket-1/module-1/proc/</dest_path>
 		<dest_target>fsi-slave-0</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -7050,12 +7050,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>bmc-0/bmc_i2c_master => proc_socket-1/module-0/proc/i2c-slave</bus_id>
+		<bus_id>bmc-0/bmc_i2c_master => proc_socket-1/module-1/proc/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
 		<cable>no</cable>
 		<source_path>bmc-0/</source_path>
 		<source_target>bmc_i2c_master</source_target>
-		<dest_path>proc_socket-1/module-0/proc/</dest_path>
+		<dest_path>proc_socket-1/module-1/proc/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -7883,10 +7883,10 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/proc/pci_configs/E0_x16:E1_x8x8/E0_x16 => mezz1_x8-4/mezzcard_x8-5/pciep</bus_id>
+		<bus_id>proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x8x8/E0_x16 => mezz1_x8-4/mezzcard_x8-5/pciep</bus_id>
 		<bus_type>PCIE</bus_type>
 		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/proc/pci_configs/E0_x16:E1_x8x8/</source_path>
+		<source_path>proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x8x8/</source_path>
 		<source_target>E0_x16</source_target>
 		<dest_path>mezz1_x8-4/mezzcard_x8-5/</dest_path>
 		<dest_target>pciep</dest_target>
@@ -7908,10 +7908,10 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/proc/pci_configs/E0_x16:E1_x8x8/E1_CLK0_x8 => slot1_x8-1/pciecard_x8-2/pciep</bus_id>
+		<bus_id>proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x8x8/E1_CLK0_x8 => slot1_x8-1/pciecard_x8-2/pciep</bus_id>
 		<bus_type>PCIE</bus_type>
 		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/proc/pci_configs/E0_x16:E1_x8x8/</source_path>
+		<source_path>proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x8x8/</source_path>
 		<source_target>E1_CLK0_x8</source_target>
 		<dest_path>slot1_x8-1/pciecard_x8-2/</dest_path>
 		<dest_target>pciep</dest_target>
@@ -7933,10 +7933,10 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-0/proc/pci_configs/E0_x16:E1_x8x8/E1_CLK1_x8 => slot2_x8-2/pciecard_x8-3/pciep</bus_id>
+		<bus_id>proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x8x8/E1_CLK1_x8 => slot2_x8-2/pciecard_x8-3/pciep</bus_id>
 		<bus_type>PCIE</bus_type>
 		<cable>no</cable>
-		<source_path>proc_socket-1/module-0/proc/pci_configs/E0_x16:E1_x8x8/</source_path>
+		<source_path>proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x8x8/</source_path>
 		<source_target>E1_CLK1_x8</source_target>
 		<dest_path>slot2_x8-2/pciecard_x8-3/</dest_path>
 		<dest_target>pciep</dest_target>
@@ -14258,7 +14258,7 @@
 	<library_target>false</library_target>
 	<instance_name>proc_socket</instance_name>
 	<position>1</position>
-	<child_id>module-0</child_id>
+	<child_id>module-1</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default>CONNECTOR</default>
@@ -14365,6 +14365,42 @@
 		<id>PROC_PCIE_IOP_ZCAL_CONTROL</id>
 		<default>0x00000080,0x00000080
 			</default>
+	</attribute>
+	<attribute>
+		<id>RESOURCE_IS_CRITICAL</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
+		<id>TYPE</id>
+		<default>NA</default>
+	</attribute>
+</targetInstance>
+<targetInstance>
+	<id>module-1</id>
+	<type>module-module-turismo</type>
+	<library_target>false</library_target>
+	<instance_name>module</instance_name>
+	<position>1</position>
+	<child_id>proc</child_id>
+	<attribute>
+		<id>CLASS</id>
+		<default>CARD</default>
+	</attribute>
+	<attribute>
+		<id>LOCATION_CODE</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>MODEL</id>
+		<default></default>
+	</attribute>
+	<attribute>
+		<id>MRW_TYPE</id>
+		<default>NA</default>
+	</attribute>
+	<attribute>
+		<id>POSITION</id>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>RESOURCE_IS_CRITICAL</id>
